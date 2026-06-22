@@ -106,4 +106,53 @@ export const surabayaHighSchools: SurabayaHighSchool[] = [
     nilai_acuan: 83.2,
     daya_tampung: 324,
   },
+  {
+    id: "sman-3-surabaya",
+    nama: "SMAN 3",
+    kecamatan: "Tambaksari",
+    nilai_acuan: 92.5,
+    daya_tampung: 432,
+  },
+  {
+    id: "sman-4-surabaya",
+    nama: "SMAN 4",
+    kecamatan: "Tegalsari",
+    nilai_acuan: 91.5,
+    daya_tampung: 360,
+  },
+  {
+    id: "sman-7-surabaya",
+    nama: "SMAN 7",
+    kecamatan: "Sawahan",
+    nilai_acuan: 90.5,
+    daya_tampung: 360,
+  },
+  {
+    id: "sman-8-surabaya",
+    nama: "SMAN 8",
+    kecamatan: "Gubeng",
+    nilai_acuan: 91.2,
+    daya_tampung: 396,
+  },
+  {
+    id: "sman-12-surabaya",
+    nama: "SMAN 12",
+    kecamatan: "Kenjeran",
+    nilai_acuan: 86.5,
+    daya_tampung: 324,
+  },
+  {
+    id: "sman-17-surabaya",
+    nama: "SMAN 17",
+    kecamatan: "Rungkut",
+    nilai_acuan: 85.4,
+    daya_tampung: 324,
+  },
+  {
+    id: "sman-18-surabaya",
+    nama: "SMAN 18",
+    kecamatan: "Semampir",
+    nilai_acuan: 86.0,
+    daya_tampung: 324,
+  }
 ];
